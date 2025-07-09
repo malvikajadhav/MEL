@@ -1,3 +1,5 @@
+📌 [View Poster (PDF)](./poster.pdf)
+
 # 🧪 Poisoning Attacks on Multimodal Entity Linking Models
 
 This project explores how **data poisoning attacks** can undermine the performance and reliability of **Multimodal Entity Linking (MEL)** systems. MEL aims to associate entity mentions in text, images, and videos with corresponding entries in a structured knowledge base. However, adversarial actors can inject poisoned data into training sets to manipulate or mislead model predictions.
@@ -5,7 +7,7 @@ This project explores how **data poisoning attacks** can undermine the performan
 ## 📄 Paper
 
 You can read the full research paper here:  
-[🔗 Poisoning Attacks on Multimodal Entity Linking Models (PDF)](https://github.com/your-username/your-repo-name/blob/main/Multimodal_Entity_Linking.pdf)
+[🔗 Poisoning Attacks on Multimodal Entity Linking Models (PDF)](https://zenodo.org/records/15844783)
 
 ## 📚 Datasets
 
@@ -26,9 +28,6 @@ The GEMEL (Generative Multimodal Entity Linking) model architecture consists of 
 
 3. **Constrained Decoding**  
    Uses a prefix tree of valid entity names to restrict output to knowledge base entries.
-
-
-![Architecture Diagram](insert-architecture-image-link-here)
 
 ## 🧪 Poisoning Techniques
 
