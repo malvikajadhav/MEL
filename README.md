@@ -59,9 +59,11 @@ We apply **textual data poisoning** using:
 If you use or build on this work, please cite:
 
 ```bibtex
-@misc{jadhav2024melpoison,
-  title={Poisoning Attacks on Multimodal Entity Linking Models},
-  author={Jadhav, Malvika and Maley, Sam},
-  year={2024},
-  institution={University of Florida}
+@misc{jadhav2025mel,
+  author       = {Malvika Jadhav and Samuel Maley},
+  title        = {Multimodal Entity Linking under Adversarial Settings},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15844783},
+  url          = {https://doi.org/10.5281/zenodo.15844783}
 }
